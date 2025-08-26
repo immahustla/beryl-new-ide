@@ -54,8 +54,8 @@ const config: ForgeConfig = {
   packagerConfig: {
     protocols: [
       {
-        name: "Dyad",
-        schemes: ["dyad"],
+        name: "BERYL",
+        schemes: ["beryl"],
       },
     ],
     icon: "./assets/icon/logo",
@@ -97,8 +97,8 @@ const config: ForgeConfig = {
       name: "@electron-forge/publisher-github",
       config: {
         repository: {
-          owner: "dyad-sh",
-          name: "dyad",
+          owner: "immahustla",
+          name: "beryl-new-ide",
         },
         draft: true,
         force: true,
