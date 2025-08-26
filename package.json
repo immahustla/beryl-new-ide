@@ -1,12 +1,12 @@
 {
   "name": "beryl-new-ide",
-  "productName": "dyad",
+  "productName": "BERYL",
   "version": "0.18.0",
   "description": "Free, local, open-source AI app builder",
   "main": ".vite/build/main.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dyad-sh/dyad.git"
+    "url": "https://github.com/immahustla/beryl-new-ide.git"
   },
   "engines": {
     "node": ">=20"
